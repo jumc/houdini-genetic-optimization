@@ -9,4 +9,4 @@ Optimization on [jhorikawa](https://github.com/jhorikawa/HoudiniHowtos/tree/mast
  1. After stabilizing a general form, create a cloud of smaller metaballs atracted to the original model for fine-tuning
  2. If there's no improvement even with doubled mutation rate, create extinction event (save the best in separate pool)
  
- ![Final result](https://imgur.com/4wSRt0P)
+ ![Final result](https://i.imgur.com/4wSRt0P.png)
